@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.gdxr_vrhands-19764885.unrealeditor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "C:/Users/GDXRWork/Videos/Recordings/VRHands/Video1/GDXR_VRHandsPart1/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "GDXR_VRHands-19764885 [UE Editor]"
+				}
+			}
+		}
+	]
+}
